@@ -1,0 +1,2 @@
+# jetbrainspycharm
+pycharm licensce key
